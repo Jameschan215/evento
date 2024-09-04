@@ -1,0 +1,7 @@
+{
+	"git.ignoreLimitWarning": true,
+	"cSpell.words": ["Evento"],
+	"[prisma]": {
+		"editor.defaultFormatter": "Prisma.prisma"
+	}
+}
